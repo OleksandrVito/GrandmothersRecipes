@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+<!--        <item>Паштети</item>-->
+        <item>Пиріжки</item>
+        <item>Грінки</item>
+        <item>Бутерброди</item>
+    </string-array>
+
+    <string-array name="hrinky">
+        <item>Грінки з швейцарським сиром і філейною вирізкою|lesichka.html</item>
+        <item>Грінки з оселедцем|lesichka.html</item>
+        <item>Грінки з помідорами і оселедцем|lesichka.html</item>
+        <item>Гострі грінки|lesichka.html</item>
+        <item>Грінки з сосисками і хріном|lesichka.html</item>
+        <item>Грінки з шинкою|lesichka.html</item>
+        <item>Грінки з мозком|lesichka.html</item>
+        <item>Грінки з цибулею|lesichka.html</item>
+        <item>Грінки з печінкою|lesichka.html</item>
+        <item>Грінки з печерицями|lesichka.html</item>
+        <item>Грінки з яйцями|lesichka.html</item>
+        <item>Грінки з телячими нирками|lesichka.html</item>
+        <item>Грінки з кістковим мозком і селерою|lesichka.html</item>
+        <item>Грінки з копченою рибою|lesichka.html</item>
+    </string-array>
+
+<!--    <string-array name="pashtety">-->
+<!--    </string-array>-->
+
+    <string-array name="pyrizhky">
+        <item>Пиріжки з слойоного і напівслойоного тіста|title</item>
+        <item>Пиріжки з сосисками. з слойоного і напівслойоного тіста|lesichka.html</item>
+        <item>Пиріжки з мозком. з слойоного і напівслойоного тіста|lesichka.html</item>
+        <item>Пиріжки з м\'ясом. з слойоного і напівслойоного тіста|lesichka.html</item>
+        <item>Пиріжки з печерицями. з слойоного і напівслойоного тіста|lesichka.html</item>
+        <item>Пиріжки з ковбасою. з слойоного і напівслойоного тіста|lesichka.html</item>
+        <item>Пиріжки з капустою. з слойоного і напівслойоного тіста|lesichka.html</item>
+        <item>Пиріжки з пісочного, напівпісочного і пісочно-дріжджового тіста|title</item>
+        <item>Пиріжки з м\'ясом.  з пісочного, напівпісочного і пісочно-дріжджового тіста|lesichka.html</item>
+        <item>Пиріжки з грибами.  з пісочного, напівпісочного і пісочно-дріжджового тіста|lesichka.html</item>
+        <item>Пиріжки з плавленим сиром.  з пісочного, напівпісочного і пісочно-дріжджового тіста|lesichka.html</item>
+        <item>Кминники.  з пісочного, напівпісочного і пісочно-дріжджового тіста|lesichka.html</item>
+        <item>Пиріжки з печінкою.  з пісочного, напівпісочного і пісочно-дріжджового тіста|lesichka.html</item>
+        <item>Пиріжки з капустою і м\'ясом.  з пісочного, напівпісочного і пісочно-дріжджового тіста|lesichka.html</item>
+        <item>Пиріжки з дріжджового тіста печені|title</item>
+        <item>Пиріжки з капустою. з дріжджового тіста печені|lesichka.html</item>
+        <item>Пиріжки з сиром. з дріжджового тіста печені|lesichka.html</item>
+        <item>\'\'Вареники\'\' з м\'ясом. з дріжджового тіста печені|lesichka.html</item>
+        <item>Калачики з цибулею. з дріжджового тіста печені|lesichka.html</item>
+        <item>Пиріжки з дріжджового тіста смажені|title</item>
+        <item>Пончики з шинкою або ковбасою. з дріжджового тіста смажені|lesichka.html</item>
+        <item>Пиріжки з сосисками. з дріжджового тіста смажені|lesichka.html</item>
+        <item>\'\'Вареники\'\' з м\'ясом. з дріжджового тіста смажені|lesichka.html</item>
+        <item>Пиріжки з бісквітного тіста|title</item>
+        <item>Оладки з м\'ясом або рибою. з бісквітного тіста|lesichka.html</item>
+        <item>Пиріжки з рулету. з бісквітного тіста|lesichka.html</item>
+        <item>Пиріжки у заварному тісті|title</item>
+        <item>Пиріжки з рибою. у заварному тісті|lesichka.html</item>
+        <item>Пиріжки з шинкою і горошком. у заварному тісті|lesichka.html</item>
+        <item>Пиріжки в млинчиковому тісті|title</item>
+        <item>Пиріжки з м\'ясом. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з сосисками. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з мозком. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з ковбасою або паштетом. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з яйцями. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з капустою і грибами. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з паштетом. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з свійської птиці в \'\'корзиночках\'\'. в млинчиковому тісті|lesichka.html</item>
+        <item>Пиріжки з м\'ясом у булочках. в млинчиковому тісті|lesichka.html</item>
+<!--        <item>Пиріжки у формочках або "тигельках"|title</item>-->
+    </string-array>
+
+    <string-array name="buterbrody">
+<!--        <item>Бутерброди з копченостями|lesichka.html</item>-->
+<!--        <item>Бутерброди з паштетом|lesichka.html</item>-->
+<!--        <item>Бутерброди з оселедцем і бринзою|lesichka.html</item>-->
+<!--        <item>Бутерброди з оселедцем і цибулею|lesichka.html</item>-->
+<!--        <item>Бутерброди з салатом з овочів і майонезом|lesichka.html</item>-->
+<!--        <item>Бутерброди з копченою свинячою філейною вирізкою|lesichka.html</item>-->
+<!--        <item>Бутерброди з сиром і яйцями|lesichka.html</item>-->
+<!--        <item>Бутерброди з рибним паштетом|lesichka.html</item>-->
+<!--        <item>Бутерброди з плавленим сиром і червоним перцем|lesichka.html</item>-->
+        <item>Бутерброди з сиром і редискою|lesichka.html</item>
+        <item>Бутерброди з шинкою, огірком і майонезом|lesichka.html</item>
+        <item>Бутерброди з зеленим горошком і майонезом|lesichka.html</item>
+        <item>Бутерброди з овочевим салатом і майонезом|lesichka.html</item>
+        <item>Бутерброди з яйцями і майонезом|lesichka.html</item>
+        <item>Бутерброди з шпротами і помідорами|lesichka.html</item>
+        <item>Бутерброди з вугрем|lesichka.html</item>
+        <item>Бутерброди з печені з телятини|lesichka.html</item>
+        <item>Бутерброди з бринзою і корнішонами|lesichka.html</item>
+        <item>Бутерброди з ростбіфом і хріном|lesichka.html</item>
+        <item>Бутерброди з ковбасою або шинкою і майонезом|lesichka.html</item>
+        <item>Бутерброди з оселедцем і майонезом|lesichka.html</item>
+<!--        <item>Бутерброди з біфштексом по-татарському|lesichka.html</item>-->
+<!--        <item>Бутерброди з копченою філейною вирізкою і майонезом|lesichka.html</item>-->
+<!--        <item>Бутерброди з смаженою свинячою корейкою|lesichka.html</item>-->
+        <item>Бутерброди з грудинкою, бринзою і солоним огірком|lesichka.html</item>
+        <item>Бутерброди з бичками в томатному соусі|lesichka.html</item>
+        <item>Бутерброди із редискою з сметаною|lesichka.html</item>
+<!--        <item>Добірні одно- і багатокомпонентні бутерброди|title</item>-->
+<!--        <item>Бутербродні пасти|title</item>-->
+<!--        <item>Тортові бутерброди і бутербродні торти|title</item>-->
+<!--        <item>Мозаїчні бутерброди|title</item>-->
+<!--        <item>Подвійні туристичні бутерброди|title</item>-->
+    </string-array>
+</resources>
